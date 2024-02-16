@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SmartToken-react/static/css/main.8ef0daec.css",
+    "main.js": "/SmartToken-react/static/js/main.67a1bbbf.js",
+    "static/js/592.c6ff1ba4.chunk.js": "/SmartToken-react/static/js/592.c6ff1ba4.chunk.js",
+    "index.html": "/SmartToken-react/index.html",
+    "main.8ef0daec.css.map": "/SmartToken-react/static/css/main.8ef0daec.css.map",
+    "main.67a1bbbf.js.map": "/SmartToken-react/static/js/main.67a1bbbf.js.map",
+    "592.c6ff1ba4.chunk.js.map": "/SmartToken-react/static/js/592.c6ff1ba4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ef0daec.css",
+    "static/js/main.67a1bbbf.js"
+  ]
+}
